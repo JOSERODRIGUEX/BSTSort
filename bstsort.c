@@ -2,7 +2,8 @@
 *Jose Rodriguez
 *BSTSORT ASSIGNMENT 1
 *This program asks you to sort the words in an input file and rint *the sorted words to an output file (standard output)
-*
+*I affirm that I wrote this program myself without any help from
+*any other people or sources from the internet.
 *You must use getopt() to parse the command line arguments to *determine the cases.
 */
 
